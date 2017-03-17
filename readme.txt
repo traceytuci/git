@@ -7,3 +7,4 @@ Creating a new branch IS quick AND simple.
 =======
 Creating a new branch IS quick AND simple.
 >>>>>>> featurel
+Test line
